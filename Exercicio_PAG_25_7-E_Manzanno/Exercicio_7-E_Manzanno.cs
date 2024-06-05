@@ -37,6 +37,10 @@ namespace Exercicio_PAG_25_7_E_Manzanno
                 double prestacao = prestacao_valor + (prestacao_valor * taxa / 100) * atraso;
                 Console.WriteLine($"O valor da sua prestacação fica em R$: {prestacao}");
             }
+            else
+            {
+                Console.WriteLine("Entradas inválidas. Por favor, insira valores numéricos.");
+            }
         }
     }
 }
