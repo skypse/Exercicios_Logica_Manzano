@@ -11,9 +11,9 @@ using System.Globalization;
 //             média (VELOCIDADE), tempo gasto na viagem (TEMPO), a distancia percorrida (DISTANCIA) e a 
 //             quantidade de litros (LITROS_USADOS) utilizada na viagem.
 
-namespace Exercicio_PAG_25_7_D_Manzanno
+namespace Exercicio_PAG_25_7_D_Manzano
 {
-    internal class Exercicio_7_D_Manzanno
+    internal class Exercicio_7_D_Manzano
     {
         public static void Main(string[] args)
         {

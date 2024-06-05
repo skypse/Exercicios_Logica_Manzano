@@ -3,13 +3,13 @@ using System.Globalization;
 using System.Runtime.Intrinsics.X86;
 // Autor: Gabriel do Amaral Alves
 // Data: 05/06/24
-// Enunciado: 7-f) Ler dois valores (inteiros, reais ou caracteres) para as variáveis A e B, e efetuar a troca dos valores de
+// Enunciado: 7-F) Ler dois valores (inteiros, reais ou caracteres) para as variáveis A e B, e efetuar a troca dos valores de
 // forma que a variável A passe a possuir o valor da variável B e a variável B passe a possuir o valor da
 // variável A. Apresentar os valores trocados
 
-namespace Exercicio_PAG_25_7_F_Manzanno
+namespace Exercicio_PAG_25_7_F_Manzano
 {
-    internal class Exercicio_7_F_Manzanno
+    internal class Exercicio_7_F_Manzano
     {
         public static void Main(string[] args)
         {

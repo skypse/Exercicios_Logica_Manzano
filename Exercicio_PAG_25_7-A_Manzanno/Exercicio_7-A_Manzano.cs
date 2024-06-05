@@ -5,9 +5,9 @@ using System.Globalization;
 // Enunciado: 7-A) Ler uma temperatura em graus Celsius e apresentá-la convertida em graus Fahrenheit.
 // A fórmula de conversão é F = (9 * C + 160) / 5, sendo F a temperatura em Fahrenheit e C a temperatura em Celsius.
 
-namespace Exercicio_PAG_25_7_A_Manzanno
+namespace Exercicio_PAG_25_7_A_Manzano
 {
-    internal class Exercicio_7_A_Manzanno
+    internal class Exercicio_7_A_Manzano
     {
         public static void Main(string[] args)
         {

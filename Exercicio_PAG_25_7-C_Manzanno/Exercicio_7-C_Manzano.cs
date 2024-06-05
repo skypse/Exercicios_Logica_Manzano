@@ -6,9 +6,9 @@ using System.Globalization;
 // Volume* Raio * Altura
 
 
-namespace Exercicio_PAG_25_7_C_Manzanno
+namespace Exercicio_PAG_25_7_C_Manzano
 {
-    internal class Exercicio_7_C_Manzanno
+    internal class Exercicio_7_C_Manzano
     {
         public static void Main(string[] args)
         {

@@ -6,9 +6,9 @@ using System.Globalization;
 // PRESTACAO VALOR + (VALOR * TAXA/100) * TEMPO).
 
 
-namespace Exercicio_PAG_25_7_E_Manzanno
+namespace Exercicio_PAG_25_7_E_Manzano
 {
-    internal class Exercicio_7_E_Manzanno
+    internal class Exercicio_7_E_Manzano
     {
         public static void Main(string[] args)
         {

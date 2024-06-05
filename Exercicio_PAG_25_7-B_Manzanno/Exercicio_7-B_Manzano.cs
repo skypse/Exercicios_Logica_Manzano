@@ -6,9 +6,9 @@ using System.Globalization;
 // A fórmula de conversão é C = (F - 32) * (5/9) , sendo F a temperatura em Fahrenheit e C a temperatura em Celsius.
 
 
-namespace Exercicio_PAG_25_7_B_Manzanno
+namespace Exercicio_PAG_25_7_B_Manzano
 {
-    internal class Exercicio_7_B_Manzanno
+    internal class Exercicio_7_B_Manzano
     {
         public static void Main(string[] args)
         {
