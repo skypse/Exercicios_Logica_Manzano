@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_25_7-F_Manzan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_25_7-G_Manzano", "Exercicio_PAG_25_7-G_Manzano\Exercicio_PAG_25_7-G_Manzano.csproj", "{7B984B99-32CC-47EB-9B72-168E615BD46B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_25_7-H_Manzano", "Exercicio_PAG_25_7-H_Manzano\Exercicio_PAG_25_7-H_Manzano.csproj", "{2B6235C7-258A-4518-A91B-DDA16FBF6579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_25_7-I-Manzano", "Exercicio_PAG_25_7-I-Manzano\Exercicio_PAG_25_7-I-Manzano.csproj", "{F43DD7E3-5E0C-4A35-9484-D778ABC835B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{7B984B99-32CC-47EB-9B72-168E615BD46B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B984B99-32CC-47EB-9B72-168E615BD46B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B984B99-32CC-47EB-9B72-168E615BD46B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B6235C7-258A-4518-A91B-DDA16FBF6579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6235C7-258A-4518-A91B-DDA16FBF6579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6235C7-258A-4518-A91B-DDA16FBF6579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6235C7-258A-4518-A91B-DDA16FBF6579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F43DD7E3-5E0C-4A35-9484-D778ABC835B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43DD7E3-5E0C-4A35-9484-D778ABC835B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43DD7E3-5E0C-4A35-9484-D778ABC835B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43DD7E3-5E0C-4A35-9484-D778ABC835B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

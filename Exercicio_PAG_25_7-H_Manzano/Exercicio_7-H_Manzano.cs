@@ -5,7 +5,7 @@ using System.Globalization;
 // Enunciado: 7-H) Elaborar um programa que calcule e apresente o volume de uma caixa retangular, 
 // por meio da fórmula VOLUME <- COMPRIMENTO * LARGURA * ALTURA.
 
-namespace CalculoVolumeCaixa
+namespace Exercicio_PAG_25_7_H_Manzano
 {
     internal class Program
     {
