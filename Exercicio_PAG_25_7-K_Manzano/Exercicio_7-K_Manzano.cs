@@ -2,7 +2,7 @@
 using System.Globalization;
 // Autor: Gabriel do Amaral Alves
 // Data: 05/06/24
-// Enunciado: Elaborar um programa que efetue a apresentação do valor da conversão em dólar de um valor lido em real.
+// Enunciado: 7-K) Elaborar um programa que efetue a apresentação do valor da conversão em dólar de um valor lido em real.
 // O programa deve solicitar o valor da cotação do dólar e também a quantidade de reais disponível com o usuário, para que seja apresentado o valor em moeda americana.
 namespace Exercicio_PAG_25_7_K_Manzano
 {
