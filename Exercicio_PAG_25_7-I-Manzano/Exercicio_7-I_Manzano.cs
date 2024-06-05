@@ -11,6 +11,7 @@ namespace Exercicio_PAG_25_7_I_Manzano
         static void Main(string[] args)
         {
             Console.WriteLine("Programa que imprimir o resultado do quadrado da diferença do primeiro valor pelo segundo.");
+
             // Solicitar os valores ao usuário
             Console.Write("Digite o primeiro valor (A): ");
             string? inputA = Console.ReadLine();
