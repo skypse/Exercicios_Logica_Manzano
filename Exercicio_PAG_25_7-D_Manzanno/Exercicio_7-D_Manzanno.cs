@@ -20,11 +20,11 @@ namespace Exercicio_PAG_25_7_D_Manzanno
             Console.WriteLine("Programa que efetua o calculo de quanto combustível gasta em uma viagem!");
 
             // Tempo Gasto
-            Console.WriteLine("Digite o tempo gasto: ");
+            Console.Write("Digite o tempo gasto (em horas): ");
             string? inputTempoGasto = Console.ReadLine();
 
             // Velocidade Média
-            Console.WriteLine("Digite o tempo gasto: ");
+            Console.Write("Digite a velocidade média (em km/h): ");
             string? inputVelocidadeMedia = Console.ReadLine();
 
             // Checando se os inputs estão vazios
@@ -33,10 +33,23 @@ namespace Exercicio_PAG_25_7_D_Manzanno
                 Console.WriteLine("Não pode haver campo nulo");
             }
             // Convertendo 'string' para 'double'| setando padrão para utilizar o separador como '.'
-            else if (double.TryParse(inputTempoGasto, NumberStyles.Float, CultureInfo.InvariantCulture, out double tempoGasto) &&
-                    (double.TryParse(inputVelocidadeMedia, NumberStyles.Float, CultureInfo.InvariantCulture, out double velocidadeMedia)))
+            else if (double.TryParse(inputTempoGasto, NumberStyles.Float, CultureInfo.InvariantCulture, out double tempo_Gasto) &&
+                    (double.TryParse(inputVelocidadeMedia, NumberStyles.Float, CultureInfo.InvariantCulture, out double velocidade_Media)))
             {
-                 
+                // Distancia percorrida
+                double distancia_Percorrida = tempo_Gasto * velocidade_Media;
+
+                // Litros usados
+                double litros_Usados = distancia_Percorrida / 12;
+
+                Console.WriteLine($"A velocidade média é de: {velocidade_Media:F2} KM/H");
+                Console.WriteLine($"O tempo gasto foi de: {tempo_Gasto:F2} Horas");
+                Console.WriteLine($"A distância percorrida foi de: {distancia_Percorrida:F2} Horas");
+                Console.WriteLine($"A quantidade de litros usados foi: {litros_Usados:F2}L");
+            }
+            else
+            {
+                Console.WriteLine("Entradas inválidas. Por favor, insira valores numéricos.");
             }
         }
     }
