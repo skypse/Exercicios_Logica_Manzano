@@ -28,6 +28,10 @@ namespace Exercicio_PAG_25_7_A_Manzanno
                double fahrenheit = (9 * celsius + 160) / 5;
                 Console.WriteLine($"Sua temperatura em Fahrenheit é: {fahrenheit}");
             }
+            else
+            {
+                Console.WriteLine("Entradas inválidas. Por favor, insira valores numéricos.");
+            }
         }
     }
 }

@@ -29,6 +29,10 @@ namespace Exercicio_PAG_25_7_B_Manzanno
                 double celsius = ((fahrenheit - 32d) * (5d/9d));
                 Console.WriteLine($"Sua temperatura em Celsius é: {celsius}");
             }
+            else
+            {
+                Console.WriteLine("Entradas inválidas. Por favor, insira valores numéricos.");
+            }
         }
     }
 }

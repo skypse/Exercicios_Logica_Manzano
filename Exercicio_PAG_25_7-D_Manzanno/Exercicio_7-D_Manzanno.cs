@@ -28,7 +28,7 @@ namespace Exercicio_PAG_25_7_D_Manzanno
             string? inputVelocidadeMedia = Console.ReadLine();
 
             // Checando se os inputs estão vazios
-            if (string.IsNullOrWhiteSpace(inputTempoGasto) && (string.IsNullOrWhiteSpace(inputVelocidadeMedia)))
+            if (string.IsNullOrWhiteSpace(inputTempoGasto) || (string.IsNullOrWhiteSpace(inputVelocidadeMedia)))
             {
                 Console.WriteLine("Não pode haver campo nulo");
             }

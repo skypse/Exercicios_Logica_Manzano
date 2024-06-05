@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_25_7-A_Manzanno", "Exercicio_PAG_25_7-A_Manzanno\Exercicio_PAG_25_7-A_Manzanno.csproj", "{3AAF6BAD-90FE-4586-81D6-2028C997BECB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_PAG_25_7-A_Manzanno", "Exercicio_PAG_25_7-A_Manzanno\Exercicio_PAG_25_7-A_Manzanno.csproj", "{3AAF6BAD-90FE-4586-81D6-2028C997BECB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_25_7-B_Manzanno", "Exercicio_PAG_25_7-B_Manzanno\Exercicio_PAG_25_7-B_Manzanno.csproj", "{DE47C85F-335D-4287-9403-EB56B2183BE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_PAG_25_7-B_Manzanno", "Exercicio_PAG_25_7-B_Manzanno\Exercicio_PAG_25_7-B_Manzanno.csproj", "{DE47C85F-335D-4287-9403-EB56B2183BE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_25_7-C_Manzanno", "Exercicio_PAG_25_7-C_Manzanno\Exercicio_PAG_25_7-C_Manzanno.csproj", "{D8165310-A6EE-47EC-832F-82FC2A07ADA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_PAG_25_7-C_Manzanno", "Exercicio_PAG_25_7-C_Manzanno\Exercicio_PAG_25_7-C_Manzanno.csproj", "{D8165310-A6EE-47EC-832F-82FC2A07ADA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_25_7-D_Manzanno", "Exercicio_PAG_25_7-D_Manzanno\Exercicio_PAG_25_7-D_Manzanno.csproj", "{3747D742-DDC6-4454-BC21-4F7FB6021AF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_PAG_25_7-D_Manzanno", "Exercicio_PAG_25_7-D_Manzanno\Exercicio_PAG_25_7-D_Manzanno.csproj", "{3747D742-DDC6-4454-BC21-4F7FB6021AF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_25_7-E_Manzanno", "Exercicio_PAG_25_7-E_Manzanno\Exercicio_PAG_25_7-E_Manzanno.csproj", "{C0A1E716-2E8E-40D8-886E-303BDD011CFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3747D742-DDC6-4454-BC21-4F7FB6021AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3747D742-DDC6-4454-BC21-4F7FB6021AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3747D742-DDC6-4454-BC21-4F7FB6021AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0A1E716-2E8E-40D8-886E-303BDD011CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A1E716-2E8E-40D8-886E-303BDD011CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A1E716-2E8E-40D8-886E-303BDD011CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A1E716-2E8E-40D8-886E-303BDD011CFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

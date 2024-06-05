@@ -23,7 +23,7 @@ namespace Exercicio_PAG_25_7_C_Manzanno
             string? inputAlturaLata = Console.ReadLine();
 
             // Checando se o input está NULL ou VÁZIO
-            if (string.IsNullOrWhiteSpace(inputRaioLata) && string.IsNullOrWhiteSpace(inputAlturaLata))
+            if (string.IsNullOrWhiteSpace(inputRaioLata) || string.IsNullOrWhiteSpace(inputAlturaLata))
             {
                 Console.WriteLine("Não pode haver campos NULOS");
             }
@@ -39,6 +39,10 @@ namespace Exercicio_PAG_25_7_C_Manzanno
                 Console.WriteLine($"O volume da lata é: {volume}cm³");
                 
 
+            }
+            else
+            {
+                Console.WriteLine("Entradas inválidas. Por favor, insira valores numéricos.");
             }
         }
     }
