@@ -7,7 +7,7 @@ using System.Globalization;
 
 namespace Exercicio_PAG_25_7_H_Manzano
 {
-    internal class Program
+    internal class Exercicio_7_H_Manzano
     {
         static void Main(string[] args)
         {

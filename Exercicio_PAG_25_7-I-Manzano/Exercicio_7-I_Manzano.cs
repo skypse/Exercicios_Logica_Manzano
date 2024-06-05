@@ -2,11 +2,11 @@
 using System.Globalization;
 // Autor: Gabriel do Amaral Alves
 // Data: 05/06/24
-// Enunciado: Ler dois inteiros (variáveis A e B) e imprimir o resultado do quadrado da diferença do primeiro valor pelo segundo.
+// Enunciado: 7-I) Ler dois inteiros (variáveis A e B) e imprimir o resultado do quadrado da diferença do primeiro valor pelo segundo.
 
 namespace Exercicio_PAG_25_7_I_Manzano
 {
-    internal class Program
+    internal class Exercicio_7_I_Manzano
     {
         static void Main(string[] args)
         {
