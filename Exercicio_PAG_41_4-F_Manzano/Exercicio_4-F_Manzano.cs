@@ -27,12 +27,12 @@ namespace Exercicio_PAG_41_4_F_Manzano
                 Console.WriteLine("Não pode haver um campo nulo.");
             }
             // Convertendo string para double
-            else if (double.TryParse(inputA, out double A) &&
-                     double.TryParse(inputB, out double B) &&
-                     double.TryParse(inputC, out double C))
+            else if (double.TryParse(inputA, out double valorA) &&
+                     double.TryParse(inputB, out double valorB) &&
+                     double.TryParse(inputC, out double valorC))
             {
                 // ordenando os valores
-                double[] valores = { A, B, C };
+                double[] valores = { valorA, valorB, valorC };
                 Array.Sort(valores);
 
                 // exibindo os valores em ordem crescente
