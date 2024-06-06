@@ -30,6 +30,7 @@ namespace Exercicio_PAG_41_4_G_Manzano
             {
                 Console.WriteLine("Não pode haver um campo nulo.");
             }
+            // Convertendo string para double
             else if (double.TryParse(inputA, out double numero01) &&
                     double.TryParse(inputB, out double numero02) &&
                     double.TryParse(inputC, out double numero03) &&
