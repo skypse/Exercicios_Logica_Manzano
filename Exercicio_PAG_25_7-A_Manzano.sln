@@ -35,29 +35,37 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_PAG_26_3.10_1-B_M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_PAG_26_3.10_1-C_Manzano", "Exercicio_PAG_26_3.10_1-C_Manzano\Exercicio_PAG_26_3.10_1-C_Manzano.csproj", "{64D09907-C597-4D66-8CA3-2E2B82860023}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_41_4-A_Manzano", "Exercicio_PAG_41_4-A_Manzano\Exercicio_PAG_41_4-A_Manzano.csproj", "{B0B7DDC6-2FA6-47D7-9A4F-F092323CAAF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_PAG_41_4-A_Manzano", "Exercicio_PAG_41_4-A_Manzano\Exercicio_PAG_41_4-A_Manzano.csproj", "{B0B7DDC6-2FA6-47D7-9A4F-F092323CAAF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_41_4-B_Manzano", "Exercicio_PAG_41_4-B_Manzano\Exercicio_PAG_41_4-B_Manzano.csproj", "{B71548F1-998B-4A88-8ADA-A8E46BA6063D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_PAG_41_4-B_Manzano", "Exercicio_PAG_41_4-B_Manzano\Exercicio_PAG_41_4-B_Manzano.csproj", "{B71548F1-998B-4A88-8ADA-A8E46BA6063D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_41_4-C_Manzano", "Exercicio_PAG_41_4-C_Manzano\Exercicio_PAG_41_4-C_Manzano.csproj", "{5F4C3BF8-0796-43E5-BBFF-7F312AB18A9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_PAG_41_4-C_Manzano", "Exercicio_PAG_41_4-C_Manzano\Exercicio_PAG_41_4-C_Manzano.csproj", "{5F4C3BF8-0796-43E5-BBFF-7F312AB18A9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_41_4-D_Manzano", "Exercicio_PAG_41_4-D_Manzano\Exercicio_PAG_41_4-D_Manzano.csproj", "{4C310EB7-6F67-4CC7-A02E-4C153F7276CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_PAG_41_4-D_Manzano", "Exercicio_PAG_41_4-D_Manzano\Exercicio_PAG_41_4-D_Manzano.csproj", "{4C310EB7-6F67-4CC7-A02E-4C153F7276CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_41_4-E_Manzano", "Exercicio_PAG_41_4-E_Manzano\Exercicio_PAG_41_4-E_Manzano.csproj", "{0472F82C-4F0D-4C00-97E8-1B762634A121}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_PAG_41_4-E_Manzano", "Exercicio_PAG_41_4-E_Manzano\Exercicio_PAG_41_4-E_Manzano.csproj", "{0472F82C-4F0D-4C00-97E8-1B762634A121}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_41_4-F_Manzano", "Exercicio_PAG_41_4-F_Manzano\Exercicio_PAG_41_4-F_Manzano.csproj", "{3BDD1515-9492-4ABF-9D15-7B2E10350134}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_PAG_41_4-F_Manzano", "Exercicio_PAG_41_4-F_Manzano\Exercicio_PAG_41_4-F_Manzano.csproj", "{3BDD1515-9492-4ABF-9D15-7B2E10350134}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_41_4-G_Manzano", "Exercicio_PAG_41_4-G_Manzano\Exercicio_PAG_41_4-G_Manzano.csproj", "{7E65817D-EF8C-486C-ADA0-567D83D80410}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_PAG_41_4-G_Manzano", "Exercicio_PAG_41_4-G_Manzano\Exercicio_PAG_41_4-G_Manzano.csproj", "{7E65817D-EF8C-486C-ADA0-567D83D80410}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_41_4-H_Manzano", "Exercicio_PAG_41_4-H_Manzano\Exercicio_PAG_41_4-H_Manzano.csproj", "{456A1368-A02A-4F87-83F0-62212F5CA644}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_PAG_41_4-H_Manzano", "Exercicio_PAG_41_4-H_Manzano\Exercicio_PAG_41_4-H_Manzano.csproj", "{456A1368-A02A-4F87-83F0-62212F5CA644}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_41_4-I_Manzano", "Exercicio_PAG_41_4-I_Manzano\Exercicio_PAG_41_4-I_Manzano.csproj", "{3905B2E5-64B0-465E-A42B-259B493F362B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_PAG_41_4-I_Manzano", "Exercicio_PAG_41_4-I_Manzano\Exercicio_PAG_41_4-I_Manzano.csproj", "{3905B2E5-64B0-465E-A42B-259B493F362B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_41_4-J_Manzano", "Exercicio_PAG_41_4-J_Manzano\Exercicio_PAG_41_4-J_Manzano.csproj", "{7075E59B-9207-4214-A2B3-10663AA9A5AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_PAG_41_4-J_Manzano", "Exercicio_PAG_41_4-J_Manzano\Exercicio_PAG_41_4-J_Manzano.csproj", "{7075E59B-9207-4214-A2B3-10663AA9A5AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_41_4-K_Manzano", "Exercicio_PAG_41_4-K_Manzano\Exercicio_PAG_41_4-K_Manzano.csproj", "{5D6981A3-6828-40C7-B1D1-F440C7807A97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_PAG_41_4-K_Manzano", "Exercicio_PAG_41_4-K_Manzano\Exercicio_PAG_41_4-K_Manzano.csproj", "{5D6981A3-6828-40C7-B1D1-F440C7807A97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_41_4-L_Manzano", "Exercicio_PAG_41_4-L_Manzano\Exercicio_PAG_41_4-L_Manzano.csproj", "{24F24D46-AB55-4502-8F84-C8F42E6E3E06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_PAG_41_4-L_Manzano", "Exercicio_PAG_41_4-L_Manzano\Exercicio_PAG_41_4-L_Manzano.csproj", "{24F24D46-AB55-4502-8F84-C8F42E6E3E06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_46_1-A_Manzano", "Exercicio_PAG_46_1-A_Manzano\Exercicio_PAG_46_1-A_Manzano.csproj", "{761A92BA-B969-4168-BEB9-696D5538AE58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_46_1-B_Manzano", "Exercicio_PAG_46_1-B_Manzano\Exercicio_PAG_46_1-B_Manzano.csproj", "{66417728-8B60-4699-8E8F-60C3520C4701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_46_1-C_Manzano", "Exercicio_PAG_46_1-C_Manzano\Exercicio_PAG_46_1-C_Manzano.csproj", "{6E10CC5D-3223-46F2-BF4C-E65037F3A8AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_PAG_46_1-D_Manzano", "Exercicio_PAG_46_1-D_Manzano\Exercicio_PAG_46_1-D_Manzano.csproj", "{DA64FCC7-6ADB-43EA-B0CA-C003EDCE39CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +185,22 @@ Global
 		{24F24D46-AB55-4502-8F84-C8F42E6E3E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24F24D46-AB55-4502-8F84-C8F42E6E3E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24F24D46-AB55-4502-8F84-C8F42E6E3E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{761A92BA-B969-4168-BEB9-696D5538AE58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761A92BA-B969-4168-BEB9-696D5538AE58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761A92BA-B969-4168-BEB9-696D5538AE58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761A92BA-B969-4168-BEB9-696D5538AE58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66417728-8B60-4699-8E8F-60C3520C4701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66417728-8B60-4699-8E8F-60C3520C4701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66417728-8B60-4699-8E8F-60C3520C4701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66417728-8B60-4699-8E8F-60C3520C4701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E10CC5D-3223-46F2-BF4C-E65037F3A8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E10CC5D-3223-46F2-BF4C-E65037F3A8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E10CC5D-3223-46F2-BF4C-E65037F3A8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E10CC5D-3223-46F2-BF4C-E65037F3A8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA64FCC7-6ADB-43EA-B0CA-C003EDCE39CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA64FCC7-6ADB-43EA-B0CA-C003EDCE39CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA64FCC7-6ADB-43EA-B0CA-C003EDCE39CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA64FCC7-6ADB-43EA-B0CA-C003EDCE39CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
